@@ -21,7 +21,7 @@ taxonomy:
     * Varios errores menores fueron corregidos
 
 
-# v1.x.0
+# v1.x.0 (Esta es una prueba de modificación de Cesar)
 ## 0x/xx/20xx
 
 1. [](#new)
